@@ -1,0 +1,21 @@
+h2{
+    color: darkblue;
+}
+h3{
+    font:Courier;
+}
+#img{
+    float:left;
+    width:25%;
+    height:400px;
+}
+
+.middle {
+    float:left;
+    margin-left: 33%;
+}
+
+.middle_vid {
+    float:left;
+    margin-left: 25%;
+}

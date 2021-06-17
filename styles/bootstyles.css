@@ -1,0 +1,31 @@
+.header{
+    right:5px;
+    left:5px;
+    top: 5px;
+    height: 100px;
+}
+
+.mainbody{
+    right:5px;
+    left:5px;
+    top:115px;
+    bottom:65px;
+}
+
+h2{ 
+    text-align:center;
+    color: blue;
+}
+
+.header{
+    text-align:center;
+    color: red
+    
+}
+body{
+    background-color: black;
+}
+
+.header{
+    font-size: 50px;
+}
